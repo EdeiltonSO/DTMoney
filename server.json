@@ -1,0 +1,28 @@
+{
+    "transactions": [
+        {
+            "id": 1,
+            "description": "Desenvolvimento de site",
+            "type": "income",
+            "category": "Venda",
+            "price": 14000,
+            "createdAt": "2023-09-25T02:46:30.206Z"
+        },
+        {
+            "id": 2,
+            "description": "Hamburguer",
+            "type": "outcome",
+            "category": "Alimentação",
+            "price": 50,
+            "createdAt": "2023-09-23T02:21:30.206Z"
+        },
+        {
+            "id": 3,
+            "description": "Uber",
+            "type": "outcome",
+            "category": "Transporte",
+            "price": 25,
+            "createdAt": "2023-10-04T09:21:30.206Z"
+        }
+    ]
+}
